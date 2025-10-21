@@ -1,0 +1,4 @@
+de\michaelmawick\spawnplugin\SpawnPlugin.class
+de\michaelmawick\spawnplugin\listener\ConnectionListener.class
+de\michaelmawick\spawnplugin\commands\SetSpawnCommand.class
+de\michaelmawick\spawnplugin\commands\SpawnCommand.class
