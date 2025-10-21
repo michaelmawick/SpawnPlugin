@@ -1,0 +1,4 @@
+name: SpawnPlugin
+version: '1.0-SNAPSHOT'
+main: de.michaelmawick.spawnplugin.SpawnPlugin
+api-version: '1.21'
